@@ -1,7 +1,7 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "jxy2012's blog"
+description: "jxy2012's blog"
 
-avatar: https://pianfan.github.io/images/avatar.png
+avatar: https://cdn.luogu.com.cn/upload/image_hosting/nkgxea8l.png
 favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
@@ -18,9 +18,9 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: jiangxinyang222@163.com
   facebook:
-  github: pianfan
+  github: jxy2012
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
