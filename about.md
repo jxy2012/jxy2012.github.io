@@ -6,4 +6,4 @@ permalink: /about/
 
 ## 关于我
 
-你好，我是 $jxy2012$，菜鸡 ***oier***。
+https://jxy2012.github.io/I_am_jxy2012/
